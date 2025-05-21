@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewBindingProject</string>
+    <string name="title">Pendataan Mahasiswa</string>
+    <string name="nim">Masukan Nim Anda</string>
+    <string name="nama">Masukan Nama Lengkap Anda</string>
+    <string name="simpan">Simpan</string>
+    <string name="hasil">Hasil Inputan</string>
+</resources>
